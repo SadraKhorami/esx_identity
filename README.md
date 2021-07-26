@@ -32,7 +32,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/SadraKhorami/esx_identity" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/847503751304577075/869318256312344667/demo.gif" alt="Logo" width="1000" height="520">
+    <img src="https://cdn.discordapp.com/attachments/847503751304577075/869318256312344667/demo.gif" alt="Logo" width="1200" height="520">
   </a>
   </p>
 
