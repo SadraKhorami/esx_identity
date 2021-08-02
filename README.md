@@ -1,9 +1,10 @@
 <h3 align="center">[ESX] FIVEM identity UI</h3>
 
   <p align="center">
-    A user friendly identity UI for your server ;)
-    <br />
-  don't forget the 🌟
+<!--     A user friendly identity UI for your server ;)
+    <br /> -->
+  <b>I will publish it, if the stars reach 20.</b>
+<!--   don't forget the 🌟 -->
    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
