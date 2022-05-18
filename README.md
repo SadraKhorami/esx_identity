@@ -3,7 +3,7 @@
   <p align="center">
 <!--     A user friendly identity UI for your server ;)
     <br /> -->
-  <b>I will publish it, if the stars reach 20.</b>
+<!--   <b>I will publish it, if the stars reach 20.</b> -->
 <!--   don't forget the 🌟 -->
    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
