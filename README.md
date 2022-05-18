@@ -60,6 +60,6 @@ Don't forget to configure the `server.cfg` file.
 For support, email support@foxteam.ir or join our [Discord](https://discord.gg/QhxE9pwwuM) channel.
       
   
-
+ 
 
   
