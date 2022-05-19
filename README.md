@@ -59,7 +59,14 @@ Don't forget to configure the `server.cfg` file.
 
 For support, email support@foxteam.ir or join our [Discord](https://discord.gg/QhxE9pwwuM) channel.
       
-  
+## Team
+
+[![Harsh Vijay](https://cdn.discordapp.com/attachments/793854885296603168/976171967621251162/fox.png)](https://github.com/sadrakhorami)  | [![soheil](https://cdn.discordapp.com/attachments/793854885296603168/976171967843545108/soheil.png)](https://github.com/SoHeil-R/)
+---|---
+[Sadra Khorami](https://github.com/sadrakhorami) |[Soheil Rezae](https://github.com/SoHeil-R)
+
+ 
+MIT © [NixTeam ](https://nixteam.ir) 
  
  
   
